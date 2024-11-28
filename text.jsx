@@ -1,0 +1,10 @@
+{ "asset_id": "88908ffdce92cf7c74f14744cbf9d230", 
+"public_id": "gyajijwxtboghpqp80ev", 
+"version": 1727426075, 
+"version_id": "31961f633e61265d567d054193dc6c43", 
+"signature": "458db54a4685c1ca008d057181854e840dbd9d4b", 
+"resource_type": "raw", "created_at": "2024-09-27T08:34:35Z", 
+"tags": [], "bytes": 20, "type": "upload", "etag": "060e4e9e30bcb9ae675a80328a87a687", 
+"placeholder": false, "url": "http://res.cloudinary.com/dv98v8ht5/raw/upload/v1727426075/gyajijwxtboghpqp80ev", 
+"secure_url": "https://res.cloudinary.com/dv98v8ht5/raw/upload/v1727426075/gyajijwxtboghpqp80ev", 
+"asset_folder": "", "display_name": "gyajijwxtboghpqp80ev", "api_key": "163546591275539" }
